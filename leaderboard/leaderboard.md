@@ -1,6 +1,6 @@
 # 🏆 Leaderboard
 
-Last updated: 2026-05-18 19:49:28
+Last updated: 2026-05-18 19:49:53
 
 | Rank | Team | Score | Model | Date |
 |------|------|-------|-------|------|
@@ -11,7 +11,7 @@ Last updated: 2026-05-18 19:49:28
 |  4 | LLM_claude_opus_47  | 0.9023 | GNN | 2026-05-18 |
 |  6 | mahatrabelsi1_human | 0.8458 | GNN | 2026-04-01 |
 |  6 | SanaeZR_human | 0.8458 | GNN | 2026-04-04 |
-|  6 | SanaeZR | 0.8458 | GNN | 2026-05-17 |
+|  6 | SanaeZR_gpt5.5 | 0.8458 | GNN | 2026-05-17 |
 |  9 | bjayadikary_human | 0.8427 | GNN | 2026-04-01 |
 |  10 | Sargam1412_human | 0.8371 | GNN | 2026-04-01 |
 |  11 | TugaAhmed_human | 0.7292 | GNN | 2026-04-04 |
